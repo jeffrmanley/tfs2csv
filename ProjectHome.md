@@ -1,0 +1,1 @@
+The aim of this tool is to enable easy exporting of all work items data stored in TFS to a set of csv files
